@@ -1,0 +1,210 @@
+[
+    {
+        "kelime": "A",
+        "kategori": "A1",
+        "dil_bilgisi": "Belirsiz makale",
+        "ornekler": [
+            "Bir adam/at/birim",
+            "Teyze/yumurta/saat/röntgen",
+            "Her seferinde sadece iki tane taşıyabilirim.",
+            "Senin için bir ziyaretçi var."
+        ]
+    },
+    {
+        "kelime": "Terk etmek",
+        "kategori": "B2",
+        "dil_bilgisi": "fiil",
+        "ornekler": [
+            "Birini terk et, bebek annesi tarafından terk edilmişti.",
+            "İnsanlar genellikle yurtdışına gittiklerinde evcil hayvanlarını terk ederler.",
+            "Birini 'kaderimize katıldığımız bir şeye terk edin' dedi.",
+            "Çalışma, yaşlılar arasında yabancıların bakımına terk edilme konusunda derin bir korku gösterdi."
+        ]
+    },
+    {
+        "kelime": "Yetenek",
+        "kategori": "A2",
+        "dil_bilgisi": "isim",
+        "ornekler": [
+            "Hastalığı olan insanlar iletişim kurma yeteneklerini kullanırlar.",
+            "Bu program kullanıcısına uyum sağlama yeteneğidir.",
+            "Öğrenciler basit metinleri anlama yeteneğini belirlemelidir.",
+            "Tüketicilerin ne isteyeceğini tahmin etme yeteneğine sahiptir."
+        ]
+    },
+    {
+        "kelime": "Hünerli",
+        "kategori": "A2",
+        "dil_bilgisi": "sıfat",
+        "ornekler": [
+            "Bu iş için Fransızca konuşabilmelisiniz.",
+            "Viral bir hastalık herbarca ablleto yürüyüşe çıktı.",
+            "Tayland'dan gelip gitmesi için hala kalışlıyız.",
+            "Onunla aynı fikirde olamadım."
+        ]
+    },
+    {
+        "kelime": "Ortadan kaldırmak",
+        "kategori": "C1",
+        "dil_bilgisi": "fiil",
+        "ornekler": [
+            "Bu vergi kaldırılmalıdır."
+        ]
+    },
+    {
+        "kelime": "Kürtaj",
+        "kategori": "C1",
+        "dil_bilgisi": "isim",
+        "ornekler": [
+            "Kürtajı Tosupport/Karşılaştır",
+            "Bir kadının kürtaj hakkı",
+            "ülkenin katı kürtaj yasaları",
+            "Hem seçim yanlısı hem de kürtaj karşıtı gruplar seslerinin duyulmasını sağlamak istiyor."
+        ]
+    },
+    {
+        "kelime": "Hakkında",
+        "kategori": "A1",
+        "dil_bilgisi": "zarf",
+        "ornekler": [
+            "Maliyeti yaklaşık 10 dolar.",
+            "Yaklaşık bir saat beklediler.",
+            "Yaklaşık on (AT) geldi."
+        ]
+    },
+    {
+        "kelime": "Hakkında",
+        "kategori": "A1",
+        "dil_bilgisi": "edat",
+        "ornekler": [
+            "Çiçekler hakkında bir kitap",
+            "Yemek hakkında söyle.",
+            "Ne kadar kızgın?",
+            "Onun hakkında garip bir şey var."
+        ]
+    },
+    {
+        "kelime": "Üstünde",
+        "kategori": "A1",
+        "dil_bilgisi": "zarf",
+        "ornekler": [
+            "Yukarıdaki rafa koyun.",
+            "Yukarıdan bakan arabalar küçük görünüyordu.",
+            "Birinin ismimi yukarıdan çıkardığını duyabiliyordum.",
+            "Yukarıdan talimatlar üzerinde hareket ediyorlardı (= daha yüksek bir otorite konumunda olan birinden)."
+        ]
+    },
+    {
+        "kelime": "Üstünde",
+        "kategori": "A1",
+        "dil_bilgisi": "edat",
+        "ornekler": [
+            "Su dizlerimizin üzerine geldi.",
+            "Bulutların üstünde uçuyorduk.",
+            "benim benim benim benim benim benim benim benim benim",
+            "Donanmadaki bir kaptan ordudaki bir kaptanın üstünde yer alıyor."
+        ]
+    },
+    {
+        "kelime": "Yurt dışı",
+        "kategori": "A2",
+        "dil_bilgisi": "zarf",
+        "ornekler": [
+            "Yurtdışına gitmek/seyahat etmek/yaşamak/çalışmak",
+            "Bir yıl boyunca yurtdışında çalıştı.",
+            "Yurt dışından ucuz yiyecek ithalatı",
+            "O ünlü, yurtdışında ve yurtdışında (= kendi ülkesinde ve diğer ülkelerde)."
+        ]
+    },
+    {
+        "kelime": "Yokluk",
+        "kategori": "C1",
+        "dil_bilgisi": "isim",
+        "ornekler": [
+            "Birinin yokluğumda kararı yokluğumda verildi (= ben oradayken).",
+            "Uzun süresi boyunca herhangi bir haber almadık.",
+            "Yokluk… işten yoksunluk",
+            "Okuldan tekrarlanan devamsızlıklar"
+        ]
+    },
+    {
+        "kelime": "Mevcut olmayan",
+        "kategori": "C1",
+        "dil_bilgisi": "sıfat",
+        "ornekler": [
+            "İki hafta boyunca işten yoktu.",
+            "Toplantıda yerel halk dikkat çekici bir şekilde yoktu."
+        ]
+    },
+    {
+        "kelime": "Mutlak",
+        "kategori": "B2",
+        "dil_bilgisi": "sıfat",
+        "ornekler": [
+            "Mutlak yeni başlayanlar için bir sınıfa katıldım.",
+            "Mutlak Güven/Güven/Sessizlik/Hakikat",
+            "\"Yanılıyorsun,\" dedi kesinlik ile.",
+            "Temiz su anabsolute bir zorunluluktur."
+        ]
+    },
+    {
+        "kelime": "Kesinlikle",
+        "kategori": "B1",
+        "dil_bilgisi": "zarf",
+        "ornekler": [
+            "Kesinlikle haklısın.",
+            "Itabsoly netleştirdi.",
+            "Ben onu kesinlikle gönderiyorum.",
+            "Kesinlikle emin misiniz?"
+        ]
+    },
+    {
+        "kelime": "Emmek",
+        "kategori": "B2",
+        "dil_bilgisi": "fiil",
+        "ornekler": [
+            "Bir şeyi emer ve karbondioksiti havadan emer.",
+            "Pirinç tüm suyu emene kadar pişirin.",
+            "Bir şeyi bir şeye emer. Krem kolayca cilde emilir."
+        ]
+    },
+    {
+        "kelime": "Soyut",
+        "kategori": "B2",
+        "dil_bilgisi": "sıfat",
+        "ornekler": [
+            "soyut bilgi/ilkeler",
+            "Araştırma, okul öncesi çocukların soyut terimlerle düşünebildiğini göstermektedir."
+        ]
+    },
+    {
+        "kelime": "Saçma",
+        "kategori": "C1",
+        "dil_bilgisi": "sıfat",
+        "ornekler": [
+            "Bu üniforma gardiyanların saçma görünmesini sağlar.",
+            "Tabii ki bu doğru değil, ne saçma bir fikir."
+        ]
+    },
+    {
+        "kelime": "Bolluk",
+        "kategori": "C1",
+        "dil_bilgisi": "isim",
+        "ornekler": [
+            "Broşür, bol miktarda yaban hayatı ile güzel yürüyüşler sözü verdi.",
+            "Ülkenin bol miktarda doğal kaynak var.",
+            "Biz büyük gıda bolluğu tarafından şaşırdık."
+        ]
+    },
+    {
+        "kelime": "Suistimal etmek",
+        "kategori": "C1",
+        "dil_bilgisi": "isim",
+        "ornekler": [
+            "alkol/uyuşturucu bağımlılığı",
+            "Nakit ikramiye ödeme sistemi kötüye kullanım için izopen (= yanlış şekilde kullanılabilir).",
+            "Yasal sistem kötüye kullanıma açıktır.",
+            "Bir şeyin kötüye kullanılması, yolsuzluk ve iktidarın olmadığı suçlamalarla tutuklandı."
+        ]
+    }
+]
